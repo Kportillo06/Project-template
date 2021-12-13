@@ -1,0 +1,8 @@
+EMPLOYEE ABSENCES REPORT 
+Employee ID:   Days absent:
+       123            100
+       123              1
+
+The 2 employees were absent a total of 101 days. 
+The average number of days absent is 50.5.
+Progammer: Katya Portillo.

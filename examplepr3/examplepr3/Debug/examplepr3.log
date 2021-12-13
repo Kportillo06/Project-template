@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\katya\OneDrive\Desktop\CMSC140\examplepr3\examplepr3\Source.cpp(13,6): warning C4101: 'unoccupiedRooms': unreferenced local variable
+  examplepr3.vcxproj -> C:\Users\katya\OneDrive\Desktop\CMSC140\examplepr3\Debug\examplepr3.exe

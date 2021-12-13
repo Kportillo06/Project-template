@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\katya\OneDrive\Desktop\CMSC140\Practice2\Source1.cpp(9,22): warning C4056: overflow in floating-point constant arithmetic
+C:\Users\katya\OneDrive\Desktop\CMSC140\Practice2\Source1.cpp(11,25): warning C4305: '=': truncation from 'double' to 'float'
+  Practice2.vcxproj -> C:\Users\katya\OneDrive\Desktop\CMSC140\Practice2\Debug\Practice2.exe

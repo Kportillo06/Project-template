@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="katya"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-23 09:47:36 PM"/>
+        <attribute name="created" value="a2F0eWE7REVTS1RPUC1HQTJCSjhGOzIwMjEtMTAtMjM7MDc6MTE6MjkgUE07Mjg0OA=="/>
+        <attribute name="edited" value="a2F0eWE7REVTS1RPUC1HQTJCSjhGOzIwMjEtMTAtMjM7MDk6NDc6MzYgUE07NDsyOTY4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hotel location&quot;" newline="True"/>
+            <input variable="location"/>
+            <output expression="&quot;Enter number of floors&quot;" newline="True"/>
+            <input variable="numberOfFloors"/>
+            <while expression="(numberOfFloors &lt;1 || numberOfFloors &gt;5)">
+                <output expression="&quot;Error! Number of floors must be between 1 and 5&quot;" newline="True"/>
+            </while>
+            <output expression="&quot;How many rooms?&quot;" newline="True"/>
+            <input variable="numberOfRooms"/>
+            <while expression="(numberofRooms &lt;1 || numberOfRooms &gt;30)">
+                <output expression="&quot;Error! Number of floors must be between 1 and 30&quot;" newline="True"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
